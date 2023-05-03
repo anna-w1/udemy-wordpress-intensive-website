@@ -5,6 +5,7 @@
 }
 html {
     font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .promo {
     height: 800px;
@@ -79,6 +80,8 @@ h2.title {
 
 .promo .promo_btn,
 .gift .gift_btn {
+    font-family: 'Roboto Condensed';
+
     display: block;
     margin: 0 auto;
     margin-top: 72px;
@@ -101,7 +104,6 @@ h2.title {
 }
 
 .more .more_text {
-    font-family: 'Roboto';
     font-weight: 100;
     font-size: 15px;
     text-transform: uppercase;
@@ -124,7 +126,6 @@ h2.title {
 
 .waiting .waiting_header,
 .finish .finish_header {
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 30px;
     text-align: center;
@@ -144,7 +145,6 @@ h2.title {
 
 .waiting .waiting_subheader {
     margin-top: 18px;
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 23px;
     text-align: center;
@@ -171,8 +171,6 @@ h2.title {
 
 .waiting .waiting_wrapper .waiting_item .waiting_descr {
     margin-top: 26px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 300;
     font-size: 15px;
     line-height: 21px;
@@ -251,7 +249,6 @@ h2.title {
 .finish .finish_wrapper .finish_item .finish_descr {
     margin-top: 25px;
     text-align: center;
-    font-family: 'Roboto';
     font-weight: 300;
     font-size: 17px;
     line-height: 20px;
@@ -272,7 +269,6 @@ h2.title {
 
 .gift .gift_text {
     margin-top: 45px;
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 30px;
     line-height: 43px;
@@ -289,7 +285,6 @@ h2.title {
 
 .webinar .webinar_text {
     margin-top: 24px;
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 23px;
     text-align: center;
@@ -298,7 +293,6 @@ h2.title {
 
 .webinar .webinar_first_text {
     margin-top: 36px;
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 30px;
     text-align: center;
@@ -308,7 +302,6 @@ h2.title {
 
 .webinar .webinar_header {
     margin-top: 30px;
-    font-family: 'Roboto';
     font-weight: 900;
     font-size: 36px;
     text-align: center;
@@ -327,7 +320,6 @@ footer {
     width: 377px;
     text-align: center;
     color: #888888;
-    font-family: Roboto;
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
@@ -335,7 +327,6 @@ footer {
 
 footer a {
     color: #888888;
-    font-family: Roboto;
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
